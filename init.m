@@ -4,9 +4,6 @@
 m = 10;
 k = 0.5;
 
-% System transfer function
-G = 1/((m*s+k));
-
 % Controller parameters
 kp = 20;
 ki = 2;
