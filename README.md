@@ -76,3 +76,7 @@ This project is developed by Simone Bertoni. Learn more about my work on my pers
 
 ## Contact
 For further communication, connect with me on [LinkedIn](https://www.linkedin.com/in/simone-bertoni-control-eng/).
+
+## Presentation
+
+[PID Anti-Windup - Comparison.pdf](https://github.com/user-attachments/files/23207221/PID.Anti-Windup.-.Comparison.pdf)
